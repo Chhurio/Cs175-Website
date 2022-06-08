@@ -1,0 +1,160 @@
+/* screen - landing */
+
+.landing {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.landing .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: -12px;
+  min-height: 438px;
+  width: 1452px;
+}
+
+.landing .overlap-group {
+  align-items: center;
+  background-color: var(--granny-smith-apple);
+  display: flex;
+  height: 100px;
+  min-width: 1440px;
+  padding: 0 41px;
+}
+
+.landing .second-chancefoods {
+  letter-spacing: 0;
+  line-height: 23.5px;
+  min-height: 72px;
+  min-width: 96px;
+}
+
+.landing .place {
+  letter-spacing: 0;
+  margin-left: 520px;
+  min-height: 30px;
+  min-width: 72px;
+}
+
+.landing .about {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 82px;
+}
+
+.landing .inventory {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 137px;
+}
+
+.landing .donations {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 140px;
+}
+
+.landing .forums {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 102px;
+}
+
+.landing .just-like-grandmas {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 96px;
+  margin-right: 200.0px;
+  margin-top: 86px;
+  min-height: 252px;
+  min-width: 978px;
+}
+
+.landing .span0 {
+  line-height: 83.5px;
+}
+
+.landing .span1 {
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  line-height: 83.5px;
+}
+
+.landing .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 74px;
+  min-width: 1303px;
+}
+
+.landing .frame-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 64px;
+  min-width: 171px;
+  padding: 0 10px;
+}
+
+.landing .frame-2 {
+  align-items: flex-start;
+  background-color: var(--fern);
+  border-radius: 50px;
+  display: flex;
+  height: 44px;
+  min-width: 151px;
+  padding: 13px 42px;
+}
+
+.landing .sign-in {
+  letter-spacing: 0.72px;
+  line-height: 15.7px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.landing .frame-2-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 64px;
+  margin-left: 32px;
+  min-width: 192px;
+  padding: 0 10px;
+}
+
+.landing .frame-2-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 50px;
+  display: flex;
+  height: 44px;
+  min-width: 172px;
+  padding: 11px 42px;
+}
+
+.landing .take-out {
+  letter-spacing: 0.72px;
+  line-height: 15.7px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.landing .x24-bo-oy-food-fruits-free-cut-out-1 {
+  height: 512px;
+  margin-left: 28px;
+  object-fit: cover;
+  width: 880px;
+}

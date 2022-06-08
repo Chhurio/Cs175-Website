@@ -1,0 +1,60 @@
+:root { 
+  --black: #000000;
+  --eerie-black: #1e1e1e;
+  --fern: #72c77a;
+  --granny-smith-apple: #9cd992;
+  --white: #ffffff;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 25px;
+  --font-size-s: 18px;
+  --font-size-xl: 48px;
+  --font-size-xxl: 60px;
+  --font-size-xxxl: 96px;
+ 
+  --font-family-exo_2: "Exo 2", Helvetica;
+  --font-family-inter-medium: "Inter-Medium", Helvetica;
+}
+.exo2-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.exo2-bold-fern-18px {
+  color: var(--fern);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.exo2-normal-black-96px {
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.exo2-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-eerie-black-48px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-3px-fern {
+  border: 3px solid var(--fern);
+}

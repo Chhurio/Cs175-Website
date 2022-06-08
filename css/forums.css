@@ -1,0 +1,140 @@
+/* screen - forums */
+
+.forums {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1440px;
+}
+
+.forums .socials {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1024px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+  z-index: 1;
+}
+
+.forums .overlap-group {
+  align-items: center;
+  background-color: var(--granny-smith-apple);
+  display: flex;
+  height: 100px;
+  min-width: 1440px;
+  padding: 0 41px;
+}
+
+.forums .second-chancefoods {
+  letter-spacing: 0;
+  line-height: 23.5px;
+  min-height: 72px;
+  min-width: 96px;
+}
+
+.forums .place {
+  letter-spacing: 0;
+  margin-left: 520px;
+  min-height: 30px;
+  min-width: 72px;
+}
+
+.forums .about {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 82px;
+}
+
+.forums .inventory {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 137px;
+}
+
+.forums .donations {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 140px;
+}
+
+.forums .forums-1 {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 102px;
+}
+
+.forums .click-to-download {
+  height: 92px;
+  left: 99px;
+  position: fixed;
+  top: 766px;
+  width: 408px;
+  z-index: 6;
+}
+
+.forums .voulnteer-fourm {
+  left: 115px;
+  letter-spacing: -1.06px;
+  line-height: 72px;
+  position: fixed;
+  top: 455px;
+  white-space: nowrap;
+  width: 384px;
+  z-index: 3;
+}
+
+.forums .title {
+  left: 284px;
+  letter-spacing: 0;
+  line-height: 83.5px;
+  position: fixed;
+  text-align: center;
+  top: 204px;
+  white-space: nowrap;
+  z-index: 2;
+}
+
+.forums .click-to-download-1 {
+  height: 92px;
+  left: 543px;
+  position: fixed;
+  top: 766px;
+  width: 408px;
+  z-index: 7;
+}
+
+.forums .food-donation-fourm {
+  left: 555px;
+  letter-spacing: -1.06px;
+  line-height: 72px;
+  position: fixed;
+  text-align: center;
+  top: 455px;
+  width: 384px;
+  z-index: 4;
+}
+
+.forums .click-to-download-2 {
+  height: 92px;
+  left: 979px;
+  position: fixed;
+  top: 766px;
+  width: 408px;
+  z-index: 8;
+}
+
+.forums .sponser-fourm {
+  left: 995px;
+  letter-spacing: -1.06px;
+  line-height: 72px;
+  position: fixed;
+  top: 455px;
+  white-space: nowrap;
+  z-index: 5;
+}

@@ -1,0 +1,137 @@
+/* screen - inventory */
+
+.inventory {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.inventory .nav-bar {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  min-width: 1452px;
+}
+
+.inventory .overlap-group {
+  align-items: center;
+  background-color: var(--granny-smith-apple);
+  display: flex;
+  height: 100px;
+  min-width: 1440px;
+  padding: 0 41px;
+}
+
+.inventory .second-chancefoods {
+  letter-spacing: 0;
+  line-height: 23.5px;
+  min-height: 72px;
+  min-width: 96px;
+}
+
+.inventory .place {
+  letter-spacing: 0;
+  margin-left: 520px;
+  min-height: 30px;
+  min-width: 72px;
+}
+
+.inventory .about {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 82px;
+}
+
+.inventory .inventory-1 {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 137px;
+}
+
+.inventory .donations {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 140px;
+}
+
+.inventory .forums {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 102px;
+}
+
+.inventory .inventory-2 {
+  letter-spacing: 0;
+  line-height: 83.5px;
+  margin-left: 21.0px;
+  margin-top: 112px;
+  min-height: 84px;
+  min-width: 505px;
+  white-space: nowrap;
+}
+
+.inventory .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 153.0px;
+  margin-top: 93px;
+  min-width: 907px;
+}
+
+.inventory .image-1 {
+  height: 272px;
+  object-fit: cover;
+  width: 471px;
+}
+
+.inventory .place-1 {
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  margin-bottom: 10.0px;
+  margin-left: 283px;
+  min-height: 52px;
+  min-width: 153px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.inventory .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-right: 136.0px;
+  margin-top: 20px;
+  min-width: 916px;
+}
+
+.inventory .image-2 {
+  height: 274px;
+  object-fit: cover;
+  width: 463px;
+}
+
+.inventory .pizza {
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  margin-bottom: 53.58px;
+  margin-left: 296px;
+  min-height: 52px;
+  min-width: 157px;
+  text-align: center;
+  white-space: nowrap;
+}

@@ -1,0 +1,106 @@
+/* screen - about */
+
+.about {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.about .nav-bar {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  min-width: 1452px;
+}
+
+.about .overlap-group {
+  align-items: center;
+  background-color: var(--granny-smith-apple);
+  display: flex;
+  height: 100px;
+  min-width: 1440px;
+  padding: 0 41px;
+}
+
+.about .second-chancefoods {
+  letter-spacing: 0;
+  line-height: 23.5px;
+  min-height: 72px;
+  min-width: 96px;
+}
+
+.about .place {
+  letter-spacing: 0;
+  margin-left: 520px;
+  min-height: 30px;
+  min-width: 72px;
+}
+
+.about .about-1 {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 82px;
+}
+
+.about .inventory {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 137px;
+}
+
+.about .donations {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 140px;
+}
+
+.about .forums {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 102px;
+}
+
+.about .the-movementagainst-food-waste {
+  letter-spacing: 0;
+  line-height: 83.5px;
+  margin-right: 189.0px;
+  margin-top: 84px;
+  min-height: 168px;
+  min-width: 977px;
+}
+
+.about .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 372px;
+  margin-left: 56.0px;
+  margin-top: 18px;
+  min-width: 1222px;
+}
+
+.about .x039d7a9683a8dca520616b6e4e121504-1 {
+  height: 351px;
+  object-fit: cover;
+  width: 520px;
+}
+
+.about .second-chance-foods {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21.8px;
+  margin-left: 72px;
+  min-height: 286px;
+  min-width: 630px;
+}
